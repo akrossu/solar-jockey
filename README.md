@@ -2,6 +2,8 @@
 
 ### Devpost Project: https://devpost.com/software/solar-jockey
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/nOmRoqP31l8/0.jpg)](https://www.youtube.com/watch?v=nOmRoqP31l8)
+
 ### Inspiration
 - CHICKEN JOCKEY
 - Sunflowers follow the Sun
